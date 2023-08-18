@@ -16,6 +16,8 @@ export default function Contact () {
 			form.current,
 			"QfqM7atcYiP3vXtMG"
 		)
+
+    e.target.reset()
   }
 
   return (
