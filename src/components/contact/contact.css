@@ -15,7 +15,7 @@
 .contact__option {
   /* width: fit-content; */
   background: var(--color-bg-variant);
-  padding: 1.2rem;
+  padding: 1.3rem;
   overflow-x: scroll;
   border-radius: 1.2rem;
   text-align: center;
@@ -70,7 +70,7 @@ input {
   .contact__container {
     width: 58%;
     gap: 5rem;
-    grid-template-columns: 30% 58%;
+    grid-template-columns: 34% 58%;
   }
 }
 
