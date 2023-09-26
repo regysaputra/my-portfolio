@@ -1,5 +1,5 @@
 // import React from "react"
-import CV from "../../assets/document/cv.pdf"
+import CV from "../../assets/document/cv_frontend_dev_english.pdf"
 
 export default function CTA() {
   return (
