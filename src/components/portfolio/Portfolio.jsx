@@ -22,9 +22,9 @@ export default function Portfolio() {
 		{
 			id: "be1",
 			image: SWG,
-			title: "Forum API",
-			github: "https://github.com/regysaputra/forum-api",
-			docs: "https://web-production-d4cd2.up.railway.app/documentation",
+			title: "Forum discussion API",
+			github: "https://github.com/regysaputra/forum-discussion-api",
+			docs: "https://forum-discussion-api.vercel.app/api-docs/",
 		},
 	]
 
